@@ -1,0 +1,9 @@
+* cl-password-store
+
+Password management for Common Lisp (web) applications
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/u-u-h/cl-password-store.git |
+| commit  | a94df97                                            |
+| systems | cl-password-store                                  |
+|---------+----------------------------------------------------|
