@@ -7,3 +7,4 @@ Password management for Common Lisp (web) applications
 | commit  | a94df97                                            |
 | systems | cl-password-store                                  |
 |---------+----------------------------------------------------|
+ 
